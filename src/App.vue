@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <a href="https://www.africau.edu/images/default/sample.pdf" download="required-docs">download</a>
+    <a href="https://github.com/AnwarP535/test-download/blob/main/src/assets/sample.pdf" download="required-docs">download</a>
   </div>
 </template>
 
