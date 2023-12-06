@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <a href="https://docs.google.com/document/export?format=docx&id=1Tb22Rlx3k6VxsoHF6yg_bxTKWi2H9H4T5yjTApl3wVk" download="required-docs">download</a>
+    <a href="https://www.africau.edu/images/default/sample.pdf" download="required-docs">download</a>
   </div>
 </template>
 
